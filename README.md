@@ -30,6 +30,8 @@
 ![Azure Security](https://img.shields.io/badge/Azure%20Security-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-00A8E8?style=for-the-badge&logo=cisco&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF4C61?style=for-the-badge&logo=trustwave&logoColor=white)
 <!-- Add more badges from shields.io -->
 
 ---
