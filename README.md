@@ -9,18 +9,15 @@
 
 ---
 
-🌐 **Socials**  
-[LinkedIn](https://linkedin.com/in/yourprofile) • [X](https://x.com/yourhandle) • [YouTube](https://youtube.com/yourchannel) • [Discord](https://discord.gg/yourserver)
+🌐 
 
 ---
 
 💻 **Tech Stack**  
-`Python` `C` `JavaScript` `HTML5` `CSS3` `Java` `Kotlin`  
-`AWS` `Firebase` `DigitalOcean` `Netlify` `Render`  
-`Docker` `Jenkins` `GitHub Actions` `Apache Kafka` `Airflow`  
-`MySQL` `MongoDB` `PostgreSQL` `DynamoDB`  
-`TensorFlow` `scikit-learn` `NumPy` `Pandas` `Keras`  
-`Wireshark` `Nmap` `Metasploit` `Burp Suite` `Scapy`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<!-- Add more badges from shields.io -->
 
 ---
 
