@@ -27,7 +27,9 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+![Azure Security](https://img.shields.io/badge/Azure%20Security-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-00A8E8?style=for-the-badge&logo=cisco&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 <!-- Add more badges from shields.io -->
 
 ---
