@@ -34,7 +34,7 @@
 ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF4C61?style=for-the-badge&logo=trustwave&logoColor=white)
 
-![Kali Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
