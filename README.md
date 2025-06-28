@@ -33,10 +33,6 @@
 ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF4C61?style=for-the-badge&logo=trustwave&logoColor=white)
 
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-<!-- Add more badges from shields.io -->
-
 ---
 
 📊 **GitHub Stats**  
