@@ -33,7 +33,7 @@
 ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF4C61?style=for-the-badge&logo=trustwave&logoColor=white)
 
-![Digital Forensics](https://img.shields.io/badge/-Digital%20Forensics-8A2BE2?style=for-the-badge&logo=protonmail&logoColor=white)
+
 
 ---
 
