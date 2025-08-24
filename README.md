@@ -4,7 +4,7 @@
 💫 **About Me**  
 🔍 Cyber Security Researcher  
 ☁️ Cloud Security Explorer  
-🛠️ DevSecOps Practitioner  
+🛠️ Penetration Testing & Offensive Security 
 🎯 Focused on Ethical Hacking & Secure Pipelines  
 
 ---
